@@ -35,18 +35,14 @@ ESO is developed for the automotive and financial domain. It contains: 63 event 
 
 ## Repository Description
 
+'ESO_2.owl'. This is ESO version 2 (stable)
 
 
 
 
-## Acknowledgements:
-This work was co-funded by:
-- The European Union - FP7 Work Programme Call FP7-ICT-2011-8 – Objective Cooperation – Research theme 
-Information and Communication Technologies, challenge 4.4 - Area Intelligent Information Management – 
-- Netherlands Organization for Scientific Research (NWO) via the Spinoza grant, 
-awarded to [Piek Vossen](http://vossen.info/) in the project [Understanding Language by Machines](http://www.understandinglanguagebymachines.org/)
 
 
+## Resource Reference
 If you use this resource, please cite:
 
 Segers R., M. Rospocher, P. Vossen, E. Laparra, G. Rigau, A. Minard. *The Event and Implied Situation Ontology: Application and Evaluation.* 
@@ -63,6 +59,13 @@ If you use ESO, please send me a message so I can update this list.
 * LREC paper
 * ....
 
+
+## Acknowledgements:
+This work was co-funded by:
+- The European Union - FP7 Work Programme Call FP7-ICT-2011-8 – Objective Cooperation – Research theme 
+Information and Communication Technologies, challenge 4.4 - Area Intelligent Information Management – 
+- Netherlands Organization for Scientific Research (NWO) via the Spinoza grant, 
+awarded to [Piek Vossen](http://vossen.info/) in the project [Understanding Language by Machines](http://www.understandinglanguagebymachines.org/)
 
 ## Provenance of this repository
 This repository is an adapted clone of this original [repository](https://github.com/newsreader/eso-and-ceo).
