@@ -19,6 +19,8 @@ owner-1 and owner-2, some object and some financial asset (usually money). ESO m
 * During the buying event: there is an exchange of object and money where the money expresses the value of the object.
 * After the buying event: owner-1 has the money but not the object; owner-2 has the object but not the money.
 
+Also see the video on YouTube on ESO: <https://www.youtube.com/watch?v=OQbuScuozXs&t=196s>
+
 ### Prerequisites
 ESO is fully mapped to [SUMO](http://www.adampease.org/OP/) on class level and to [FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/) on class and role level. 
 As an input, ESO needs Semantic Role Labeled annotation based on FrameNet. An additional vocabulary with manually created WordNet-FrameNet-ESO 
@@ -51,15 +53,9 @@ Segers R., M. Rospocher, P. Vossen, E. Laparra, G. Rigau, A. Minard. *The Event 
 In: Proceedings of the 10th edition of the Language Resources and Evaluation Conference (LREC2016), 
 Portoroz, Slovenia, May 23-28 2016. 
 
+## Contact
 
-
-
-## Publications using ESO
-
-If you use ESO, please send me a message so I can update this list.
-
-* LREC paper
-* ....
+roxane.segers (the email symbol) gmail.com
 
 
 ## Acknowledgements:
