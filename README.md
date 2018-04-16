@@ -35,10 +35,12 @@ ESO is developed for the automotive and financial domain. It contains: 63 event 
 
 ## Repository Description
 
-`ESO_2.owl'` This is ESO version 2 (stable).
-
-
-
+`ESO-2.owl` This is ESO version 2 (stable)
+`Documentation.pdf` This is the documentation of the ESO Ontology
+`ESO-HumanReadable.pdf` This file contains a transcription of ESO classes and provides examples of the instantiation of the assertions.
+`ESO-Poster.pdf` This file presents a largely visual and concise overview of the ontology and its application on natural language texts.
+`ESO-Vocabulary` This folder contains the manual mappings between FrameNet, WordNet and ESO. It includes a readme.
+`EvaluationCorpus` This folder contains the MeanTime corpus, annotated with ESO classes and roles.
 
 
 
