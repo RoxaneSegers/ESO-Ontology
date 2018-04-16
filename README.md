@@ -35,7 +35,7 @@ ESO is developed for the automotive and financial domain. It contains: 63 event 
 
 ## Repository Description
 
-'ESO_2.owl'. This is ESO version 2 (stable)
+`ESO_2.owl'` This is ESO version 2 (stable).
 
 
 
