@@ -15,9 +15,9 @@ If something happens in the world, there is a change in at least some of the val
 For instance: an event associated with the concept or class eso:Buying will have a two cognitive agents carrying the role of
 owner-1 and owner-2, some object and some financial asset (usually money). ESO models and infers the following:
 
-*Before the buying event: owner-1 has the object but not the money; owner-2 has the money but not the object.
-*During the buying event: there is an exchange of object and money where the money expresses the value of the object.
-*After the buying event: owner-1 has the money but not the object; owner-2 has the object but not the money.
+* Before the buying event: owner-1 has the object but not the money; owner-2 has the money but not the object.
+* During the buying event: there is an exchange of object and money where the money expresses the value of the object.
+* After the buying event: owner-1 has the money but not the object; owner-2 has the object but not the money.
 
 ### Prerequisites
 ESO is fully mapped to [SUMO](http://www.adampease.org/OP/) on class level and to [FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/) on class and role level. 
